@@ -9,9 +9,9 @@ This was a project maded for managing a freshwater aquarium, and configurable wi
 It can:
 - manage potential hydrogen (pH) of the water by controlling a solenoid valve on a carbon dioxide cylinder.
 - manage a led lighting to match with true cycle of photosynthesis, and true cycle of intensity and wavelenght of the sun rays (sunrise, sunset, moon light etc...).
-- manage internal temperature.
+- manage internal temperature and display external temperature and moisture.
 - manage the filtration.
-- manage the injection of liquide fertilizer with peristaltic pump.
+- manage the injection of liquid fertilizer with peristaltic pump.
 - renew the water with peristaltic pump.
 - Feed the fish with diy mechanical feeder.
 - All this was configurable in the user interface.
@@ -22,6 +22,8 @@ It can:
 - Screen shield
 - Touch screen 3.2"
 - 18DS20 temperature sensors
+- solenoid valve
+- carbon dioxide cylinder
 - pH probes
 - LED drivers PWM capable
 - Transformers meanwell SP-24-150
