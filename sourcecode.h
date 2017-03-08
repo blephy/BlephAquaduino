@@ -1,6 +1,6 @@
 
 // Please download all the library below and add it to your Arduino project.
-// I apologize about this code. I was young ^^
+// I apologise about this code. I was young ^^
 
 //LIBRARIES
 #include <ITDB02_Graph16.h>
@@ -329,7 +329,7 @@ int tempoff;
 int tempFoff;
 int tempalarm;
 int tempFalarm;
-} 
+}
 tempSettings;
 
 struct config_c
