@@ -3,6 +3,7 @@ Automation of a freshwater aquarium, with an Arduino board.
 
 ## Pay attention
 This project was made a long time ago, and this code may no longer be operational. Furthermore, this code is really not sexy (3K lines code in one file ...) and not maintainable, but could help people to do the same.
+Keep in mind, i found this code in an old hard drive and it was written in 2011.
 
 ## Description
 This was a project maded for managing a freshwater aquarium, and configurable with a touchscreen user interface.
